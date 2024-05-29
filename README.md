@@ -1,1 +1,1 @@
-# processamento-imagem-java
+# processamento-imagem-python
